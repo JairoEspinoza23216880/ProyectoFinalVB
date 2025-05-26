@@ -1,0 +1,23 @@
+NAME=
+Ah Muzen Cab
+
+TITLE=
+La Abeja Descendente
+
+DOMAIN=
+Abejas y Miel
+
+SYMBOLOGY=
+Abejas, Miel, El Dios Descendente
+
+APPEARANCE=
+Se le suele representar boca abajo, ya sea con cuerpo humano o de abeja
+
+DESCRIPTION=
+Su nombre significa "El que guarda la miel", es principalmente el Dios de la Abeja Melipona
+Yucateca (Melipona beecheii) y de los apicultores, aunque también se le relaciona con la
+naturaleza e incluso la creación del mundo (¡WOW!), no por nada el templo de Tulum está
+construido en su honor, nada mal para una abejita
+
+GIFNAME=
+ProyectoFinalVB.AhMuzenCabGif.gif

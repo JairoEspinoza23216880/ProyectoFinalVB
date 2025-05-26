@@ -1,0 +1,23 @@
+﻿NAME= 
+Yum Kaax
+
+TITLE=
+El joven del maíz
+
+DOMAIN=
+Los cultivos, la naturaleza, la fertilidad
+
+SYMBOLOGY=
+Cultivos, Maíz, El dios del maíz 
+
+APPEARANCE=
+Representado como un joven con deformación craneal llevando mazorcas de maíz
+
+DESCRIPTION=
+Era el gran y poderosos dios con el que el pueblo maya respondía su gran inclinación
+por trabajar la tierra. Era adorado con gran determinación, quien por lo mismo era 
+llamado el patrono de la agricultura, junto a Ah Muzen Cab, son los candidatos al
+dios descendente de Tulum
+
+GIFNAME=
+ProyectoFinalVB.YumKaaxGif.gif

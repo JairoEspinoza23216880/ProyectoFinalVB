@@ -1,0 +1,89 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Backgrounds\MayanBackground.png" />
+    <None Remove="Resources\Backgrounds\MayanYggdrasil.jpg" />
+    <None Remove="Resources\Data\AhMuzenCab.txt" />
+    <None Remove="Resources\Data\AhPuch.txt" />
+    <None Remove="Resources\Data\YumKaax.txt" />
+    <None Remove="Resources\Fonts\aztek.ttf" />
+    <None Remove="Resources\Fonts\Micro_Chat.ttf" />
+    <None Remove="Resources\Fonts\Tiny_Talk.ttf" />
+    <None Remove="Resources\Gifs\AhMuzenCabGif.gif" />
+    <None Remove="Resources\Gifs\AhPuchGif.gif" />
+    <None Remove="Resources\Gifs\ChaacGif.gif" />
+    <None Remove="Resources\Gifs\HuracanGif.gif" />
+    <None Remove="Resources\Gifs\ItzamnaGif.gif" />
+    <None Remove="Resources\Gifs\IxChelGif.gif" />
+    <None Remove="Resources\Gifs\IxTabGif.gif" />
+    <None Remove="Resources\Gifs\KinichAhauGif.gif" />
+    <None Remove="Resources\Gifs\KinichKakmoGif.gif" />
+    <None Remove="Resources\Gifs\PawahtunGif.gif" />
+    <None Remove="Resources\Gifs\YumKaaxGif.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Backgrounds\MayanBackground.png" />
+    <EmbeddedResource Include="Resources\Backgrounds\MayanYggdrasil.jpg" />
+    <EmbeddedResource Include="Resources\Data\AhMuzenCab.txt" />
+    <EmbeddedResource Include="Resources\Data\AhPuch.txt" />
+    <EmbeddedResource Include="Resources\Data\YumKaax.txt" />
+    <EmbeddedResource Include="Resources\Fonts\Aztek_Pixel.ttf" />
+    <EmbeddedResource Include="Resources\Fonts\Micro_Chat.ttf" />
+    <EmbeddedResource Include="Resources\Fonts\Tiny_Talk.ttf" />
+    <EmbeddedResource Include="Resources\Gifs\AhMuzenCabGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\AhPuchGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\BolonDzacabGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\CamazotzGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\ChaacGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\EkChuahGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\HuracanGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\ItzamnaGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\IxChelGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\IxTabGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\KinichAhauGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\KinichKakmoGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\KukulkanGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\PawahtunGif.gif" />
+    <EmbeddedResource Include="Resources\Gifs\YumKaaxGif.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\Icons\" />
+    <Folder Include="Resources\Sounds\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="14.6.0" />
+  </ItemGroup>
+
+</Project>

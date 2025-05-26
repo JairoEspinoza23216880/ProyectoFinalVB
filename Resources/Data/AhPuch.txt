@@ -1,0 +1,23 @@
+﻿NAME= 
+Ah Puch
+
+TITLE=
+Soberano del Xibalba 
+
+DOMAIN=
+Las almas
+
+SYMBOLOGY=
+Muertes, Enfermedades, El dios de la muerte
+
+APPEARANCE=
+Un hombre con las costillas y la columna expuesta, representado como un ser grotesco, con un aspecto esquelético o con signos de putrefacción
+
+DESCRIPTION=
+En el panteón maya, Ah puch desempeña un papel crucial como el cuarto dios de la 
+muerte más representado en los códices mayas. Se le atribuye la responsabilidad de 
+gobernar y guiar a las almas en su viaje hacia el inframundo, siendo el encargado 
+de juzgar y castigar a los fallecidos.
+
+GIFNAME=
+ProyectoFinalVB.AhPuchGif.gif
