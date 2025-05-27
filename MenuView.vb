@@ -258,5 +258,99 @@
         form.LoadView(godView)
     End Sub
 
+    Private Sub btnItzamna_Click(sender As Object, e As EventArgs) Handles btnItzamna.Click
+        Debug.Write("Cargando Itzamna...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.Itzamna.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
+
+    'Evento Click para Chaac
+    Private Sub btnChaac_Click(sender As Object, e As EventArgs) Handles btnChaac.Click
+        Debug.Write("Cargando Chaac...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.Chaac.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
+
+    'Evento Click para IxChel
+    Private Sub btnIxChel_Click(sender As Object, e As EventArgs) Handles btnIxChel.Click
+        Debug.Write("Cargando Ix Chel...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.IxChel.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
+
+    'Evento Click para KinichKakmo
+    Private Sub btnKinichKakmo_Click(sender As Object, e As EventArgs) Handles btnKinichKakmo.Click
+        Debug.Write("Cargando Kinich Kakmo...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.KinichKakmo.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
+
+    'Evento Click para Kukulkan
+    Private Sub btnKukulkan_Click(sender As Object, e As EventArgs) Handles btnKukulkan.Click
+        Debug.Write("Cargando Kukulkan...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.Kukulkan.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
+
+    'Evento Click para Camazotz
+    Private Sub btnCamazotz_Click(sender As Object, e As EventArgs) Handles btnCamazotz.Click
+        Debug.Write("Cargando Camazotz...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.Camazotz.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
+
+    'Evento Click para IxTab
+    Private Sub btnIxTab_Click(sender As Object, e As EventArgs) Handles btnIxTab.Click
+        Debug.Write("Cargando Ix Tab...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.IxTab.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
+
+    'Evento Click para KinichAhau
+    Private Sub btnKinichAhau_Click(sender As Object, e As EventArgs) Handles btnKinichAhau.Click
+        Debug.Write("Cargando Kinich Ahau...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.KinichAhau.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
+
+    'Evento Click para BolonDzacab
+    Private Sub btnBolonDzacab_Click(sender As Object, e As EventArgs) Handles btnBolonDzacab.Click
+        Debug.Write("Cargando Bolon Dzacab...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.BolonDzacab.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
+
+    'Evento Click para EkChuah
+    Private Sub btnEkChuah_Click(sender As Object, e As EventArgs) Handles btnEkChuah.Click
+        Debug.Write("Cargando Ek Chuah...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.EkChuah.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
+
+    'Evento Click para Huracan
+    Private Sub btnHuracan_Click(sender As Object, e As EventArgs) Handles btnHuracan.Click
+        Debug.Write("Cargando Huracan...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.Huracan.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
+
+    'Evento Click para Pawahtun
+    Private Sub btnPawahtun_Click(sender As Object, e As EventArgs) Handles btnPawahtun.Click
+        Debug.Write("Cargando Pawahtun...")
+        Dim godData As GodData = GodRepository.LoadGod("ProyectoFinalVB.Pawahtun.txt")
+        Dim godView As New GodView(form, godData)
+        form.LoadView(godView)
+    End Sub
 
 End Class

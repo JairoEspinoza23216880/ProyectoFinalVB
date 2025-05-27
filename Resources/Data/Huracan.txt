@@ -1,0 +1,20 @@
+NAME=
+Huracán / Hurakán
+
+TITLE=
+Dios del Viento, Fuego y Tormentas, Dios de los Ciclones Tropicales, Corazón del Cielo, El de una Sola Pierna
+
+DOMAIN=
+Mitología Maya, Viento, Fuego, Tormentas, Ciclones, Rayo, Trueno, Relámpago, Creación de humanos (maíz), Agricultura, Castigo, Gran Diluvio, Destrucción y renacimiento
+
+SYMBOLOGY=
+Dualidad vida/destrucción, Fuerza de la naturaleza, Pie de garra (una pierna), Forma de brazos (vientos de huracán), Serpiente (rayo), Rostro de calavera, Descenso desde las nubes, Origen etimológico del “huracán”
+
+APPEARANCE=
+Monstruoso, Una sola pierna con garra, Atuendos con joyas y plumas, Cara de calavera, Brazos=uno arriba, otro en la cintura, Serpiente en la mano izquierda, Desciende desde las nubes
+
+DESCRIPTION=
+Dios temido y central en la mitología maya. Representa las tormentas, el fuego, el viento y los ciclones. Capaz de crear o destruir, participa en la creación del hombre de maíz, pero también en su castigo con el gran diluvio. Su nombre significa “el de una sola pierna”, símbolo de poder natural. Controla rayos y vientos, y su figura refleja la dualidad divina entre compasión y furia. De él proviene la palabra “huracán”.
+
+GIFNAME=
+ProyectoFinalVB.HuracanGif.gif

@@ -1,0 +1,23 @@
+﻿NAME=
+Camazotz
+
+TITLE=
+El Murciélago del Inframundo
+
+DOMAIN=
+Noche, sacrificios, inframundo, muerte
+
+SYMBOLOGY=
+Representa la noche, el sacrificio sangriento, el miedo y los peligros del inframundo.
+Simboliza la transición entre el mundo de los vivos y los muertos.
+“Kame” significa “muerte”.
+“Zotz” significa “murciélago”.
+
+APPEARANCE=
+Cuerpo humanoide con alas de murciélago, garras afiladas y rostro aterrador. A veces aparece con un cuchillo o con la cabeza de una víctima.
+
+DESCRIPTION=
+Camazotz es una deidad temida asociada con el sacrificio y el mundo subterráneo. Su figura mezcla lo humano y lo animal, y aparece como un portador de muerte y juicio. Es temido, pero también es símbolo del ciclo inevitable de la vida y la muerte.
+
+GIFNAME=
+ProyectoFinalVB.CamazotzGif.gif

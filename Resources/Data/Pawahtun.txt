@@ -1,0 +1,23 @@
+﻿NAME=
+Pawahtun
+
+TITLE=
+El que Carga el Cosmos
+
+DOMAIN=
+Estabilidad cósmica, pilares del universo, ciclos del tiempo
+
+SYMBOLOGY=
+Representa la estabilidad del mundo, los pilares que sostienen el universo.
+Relacionado con el tiempo, los ciclos y la carga cósmica que mantiene el orden.
+“Pawah” está relacionado con “soplar” o “aliento”.
+“Tun” significa “piedra” o “año” (calendario).
+
+APPEARANCE=
+Hombre anciano sentado, con los brazos en alto, sosteniendo el cosmos.
+
+DESCRIPTION=
+Pawahtun es el dios que sostiene el cielo y la tierra. Su figura representa la permanencia y el equilibrio del cosmos, así como el paso del tiempo. A veces es visto como una deidad cuádruple que carga las esquinas del universo.
+
+GIFNAME=
+ProyectoFinalVB.PawahtunGif.gif

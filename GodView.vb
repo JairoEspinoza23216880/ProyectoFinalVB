@@ -11,10 +11,13 @@
     Private background As PictureBox
     Private mainForm As BaseForm
 
+    Private maingod As GodData
+
     '---------------------------- Constructor/Inicializador ----------------------------'
     'Constructor
     Public Sub New(ByVal frm As BaseForm, god As GodData)
         mainForm = frm
+        maingod = god
         InitializeComponent()
         LoadGodData(god)
     End Sub
@@ -111,6 +114,7 @@
         ' === GIF cuadrado ===
         Dim gifSize As Integer = Math.Min(leftW, h \ 2)
         pictureGif.SetBounds(10, 10, gifSize, gifSize)
+        pictureGif.Image = ResourceManager.Instance.ResizeGIF(maingod.gifName, pictureGif.Size)
 
         ' === Etiquetas de la izquierda ===
         Dim domainHeight As Integer = CInt(h * 0.06)

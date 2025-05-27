@@ -1,0 +1,22 @@
+﻿NAME=
+Ix Chel
+
+TITLE=
+Madre Lunar
+
+DOMAIN=
+Amor, gestación, agua, trabajos textiles, medicina
+
+SYMBOLOGY=
+Representa el ciclo de la vida, la feminidad, el poder creador y destructor de la naturaleza. Su vínculo con la luna la conecta con los ciclos menstruales y la fertilidad.
+“Ix” es un prefijo honorífico femenino que significa “señora” o “mujer”.
+“Chel” puede interpretarse como “arco iris” o “luz brillante”.
+
+APPEARANCE=
+Se le representaba como una anciana vaciando un cántaro lleno de agua sobre la tierra o tejiendo en un telar de cintura. En su cabeza lleva una serpiente y en su falda hay huesos formando cruces.
+
+DESCRIPTION=
+Ix Chel es una de las deidades más importantes del panteón maya. Como madre lunar, encarna la energía femenina en todas sus formas: curandera, creadora, protectora de la fertilidad y la medicina. Su imagen y simbolismo están profundamente conectados con los ciclos naturales y la sabiduría ancestral de las mujeres.
+
+GIFNAME=
+ProyectoFinalVB.IxChelGif.gif

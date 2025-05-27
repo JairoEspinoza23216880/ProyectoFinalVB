@@ -1,0 +1,21 @@
+NAME=
+
+Bolon Dzacab / Kawil  
+
+TITLE= 
+Dios del Rayo y la Abundancia, Dios K  
+
+DOMAIN= 
+Rayo, fuego, fertilidad, poder, linaje real  
+
+SYMBOLOGY= 
+Pierna serpiente, estrella en la frente, fuego, antorchas, sacrificio  
+
+APPEARANCE= 
+Figura alta, piel oscura, nariz larga, pierna/falo como serpiente  
+
+DESCRIPTION= 
+Dios poderoso vinculado al trueno, al fuego y la fertilidad. Representa abundancia y fuerza ancestral. Protector de reyes, asociado al sacrificio ritual y la continuidad de los linajes. Su pierna serpiente simboliza creación y sabiduría. También es visto como un embaucador y dios de la renovación.
+
+GIFNAME=
+ProyectoFinalVB.BolonDzacabGif.gif

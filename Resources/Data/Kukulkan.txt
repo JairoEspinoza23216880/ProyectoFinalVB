@@ -1,0 +1,20 @@
+NAME= 
+Kukulcán  
+
+TITLE= 
+Serpiente Emplumada, Dios Creador  
+
+DOMAIN= 
+Creación, viento, lluvia, vida, fertilidad, sabiduría, truenos  
+
+SYMBOLOGY= 
+Serpiente emplumada, dualidad, Venus, sabiduría, luz, conocimiento  
+
+APPEARANCE= 
+Serpiente con plumas (quetzal/cóatl), nariz de tapir, forma humana adornada  
+
+DESCRIPTION= 
+Dios creador maya yucateco, asociado con el viento, el agua y el maíz. Patrón de la sabiduría, la realeza y los sacerdotes. Su figura representa la unión entre lo físico y lo espiritual. Conectado al planeta Venus, su retorno simboliza esperanza y continuidad. Se le rendía culto en Chichén Itzá, donde su sombra desciende como serpiente en el equinoccio.
+
+GIFNAME=
+ProyectoFinalVB.KukulkanGif.gif

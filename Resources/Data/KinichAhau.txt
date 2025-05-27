@@ -1,0 +1,23 @@
+﻿NAME= 
+Kinich Ahau
+
+TITLE=
+Guerrero con el poder del sol
+
+DOMAIN=
+Ciclo solar
+
+SYMBOLOGY=
+Protector, Dador de vida, El dios del sol
+
+APPEARANCE=
+Un anciano que tiene la nariz grande y la lengua afuera, así como también unos grandes y potentes ojos bizcos. 
+
+DESCRIPTION=
+Su nombre deriva de los vocablos k’iin (sol), ich (rostro) y ahau (señor o sacerdote). Para los mayas era 
+importante no hacerlo enojar, podía traer enfermedades y causar sequías. Era idolatrado con sacrificios 
+de sangre y danzas antes de empezar alguna batalla, buscando su protección, poder y principalmente la 
+bendición de éste.
+
+GIFNAME=
+ProyectoFinalVB.KinichAhauGif.gif

@@ -1,0 +1,22 @@
+﻿NAME= 
+Itzamná
+
+TITLE=
+Creador del mayab 
+
+DOMAIN=
+Sabiduría, Medicina
+
+SYMBOLOGY=
+Guiador de almas, Sabiduría, Dios del cielo
+
+APPEARANCE=
+Aparece representado como un viejo de mandíbulas sin dientes y carrillos hundidos.
+
+DESCRIPTION=
+Su nombre puede traducirse como “Casa del lagarto” o “el que tiene la sabiduría del reptil”, 
+haciendo referencia a su relación con los cielos y el agua, dos elementos esenciales en la 
+cosmovisión maya
+
+GIFNAME=
+ProyectoFinalVB.ItzamnaGif.gif

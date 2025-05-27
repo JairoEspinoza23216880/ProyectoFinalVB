@@ -1,0 +1,23 @@
+﻿NAME=
+Kinich Kakmó
+
+TITLE=
+La Guacamaya Solar
+
+DOMAIN=
+Dios solar, luz, calor, fuego purificador
+
+SYMBOLOGY=
+Representa el poder solar, la luz, el calor y el fuego purificador.
+La guacamaya simboliza la energía del sol descendiendo sobre la tierra.
+“Kinich” significa “cara del sol” o “de rostro solar”.
+“Kakmó” proviene de “k’ak’” (fuego) y “mo’” (guacamaya).
+
+APPEARANCE=
+Cabeza de guacamaya y cuerpo humano. En el Códice Dresde aparece portando una antorcha encendida en cada mano.
+
+DESCRIPTION=
+Kinich Kakmó es una manifestación del dios solar en la mitología maya, vinculado a la energía, el fuego y la renovación. Su aspecto de ave resplandeciente refuerza su conexión con el cielo y el astro rey.
+
+GIFNAME=
+ProyectoFinalVB.KinichKakmoGif.gif

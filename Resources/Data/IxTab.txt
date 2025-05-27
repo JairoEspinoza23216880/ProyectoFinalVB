@@ -1,0 +1,23 @@
+﻿NAME=
+Ixtab
+
+TITLE=
+Guía de los Ahorcados
+
+DOMAIN=
+Diosa del suicidio honorable y guía espiritual
+
+SYMBOLOGY=
+Simboliza el tránsito al paraíso para quienes mueren por ahorcamiento, acto considerado sagrado en ciertos contextos mayas.
+Asociada con compasión y guía espiritual.
+“Ix” es el prefijo femenino.
+“Tab” significa “cuerda” o “lazo”.
+
+APPEARANCE=
+Representada como un cadáver parcialmente descompuesto con los ojos cerrados, colgando de un árbol.
+
+DESCRIPTION=
+Ixtab desempeñaba un papel especial dentro del panteón maya como protectora y guía de quienes cometían suicidio por ahorcamiento, conduciéndolos a un paraíso reservado. Es una figura de tránsito espiritual, cargada de compasión y redención.
+
+GIFNAME=
+ProyectoFinalVB.IxTabGif.gif

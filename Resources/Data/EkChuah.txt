@@ -1,0 +1,20 @@
+NAME= 
+Ek Chuah  
+
+TITLE= 
+Dios del Comercio y el Cacao  
+
+DOMAIN= 
+Comercio, cacao, riqueza, inframundo  
+
+SYMBOLOGY= 
+Cacao, bultos, lanza/cola de escorpión, estrella negra  
+
+APPEARANCE= 
+Piel oscura, nariz larga, cargando paquetes  
+
+DESCRIPTION= 
+Patrón de mercaderes y el cacao, usado como moneda y ofrenda. Asociado al inframundo, guiaba almas. Representa el equilibrio entre sustento y comercio. Su piel oscura alude al cacao, símbolo de valor económico y espiritual.
+
+GIFNAME=
+ProyectoFinalVB.EkChuahGif.gif
